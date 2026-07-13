@@ -22,6 +22,7 @@ Smart agriculture robot using:
 - Python
 - C++
 - SQL (Basics)
+- stock market 
 
 ### Tools
 - GitHub
@@ -31,7 +32,6 @@ Smart agriculture robot using:
 ## 📜 Certifications
 - Python Fundamentals
 - NPTEL Certifications(https://archive.nptel.ac.in/noc/transcript_verify/?val=43873AFD4CDEBFA735936B178B49A3960BA34699B13947DBF461F86F31026506)
-` PCB Design and fabrication for industrial applicationn
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mohan-kumar-h -00297132b
