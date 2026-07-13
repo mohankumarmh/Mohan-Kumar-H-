@@ -24,14 +24,14 @@ Smart agriculture robot using:
 - SQL (Basics)
 
 ### Tools
-- Git
 - GitHub
 - Arduino IDE
 - VS Code
 
 ## 📜 Certifications
 - Python Fundamentals
-- NPTEL Certifications
+- NPTEL Certifications(https://archive.nptel.ac.in/noc/transcript_verify/?val=43873AFD4CDEBFA735936B178B49A3960BA34699B13947DBF461F86F31026506)
+` PCB Design and fabrication for industrial applicationn
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mohan-kumar-h -00297132b
