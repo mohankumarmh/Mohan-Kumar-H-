@@ -36,7 +36,3 @@ Smart agriculture robot using:
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mohan-kumar-h -00297132b
 - Gmail: mohankumarh818@gmail.com
-
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/mohankumarmh/mohankumarmh/output/github-contribution-grid-snake-dark.svg)
